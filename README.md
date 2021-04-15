@@ -3,7 +3,7 @@
 
 ## About me
 * Bachelor of Chemical and Biomolecular Engineering & Computer Engineering in Sogang Univ.
-* Learn About <img src=https://img.shields.io/badge/-Data%Struct-lightgrey /> <img src=https://img.shields.io/badge/-Algorithm-lightgrey /> <img src=https://img.shields.io/badge/-OS-lightgrey /> <img src=https://img.shields.io/badge/-Network-lightgrey /> <img src=https://img.shields.io/badge/-OOP-lightgrey /> <img src=https://img.shields.io/badge/-C++-brightgreen /> <img src=https://img.shields.io/badge/-JAVA-brightgreen /> <img src=https://img.shields.io/badge/-SQL-brightgreen />
+* Learn About <img src=https://img.shields.io/badge/-Data%20Struct-lightgrey /> <img src=https://img.shields.io/badge/-Algorithm-lightgrey /> <img src=https://img.shields.io/badge/-OS-lightgrey /> <img src=https://img.shields.io/badge/-Network-lightgrey /> <img src=https://img.shields.io/badge/-OOP-lightgrey /> <img src=https://img.shields.io/badge/-C++-brightgreen /> <img src=https://img.shields.io/badge/-JAVA-brightgreen /> <img src=https://img.shields.io/badge/-SQL-brightgreen />
 * Preparing for lternative-military-service
 
 
