@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Imagination&fontSize=90&fontAlign=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jun Seong Park&fontSize=70&fontAlign=20)
 
 
 ## About me
